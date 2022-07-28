@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 my Name is Alex Muturi, a fullstack Dev with bias for Frontend.
 
-<!--
-**alex-migwi/alex-migwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Angular apps for Kyosk Digital Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning in depth Javascript, Typescript, the Observer pattern, React and NX-Monrepo
+
+👯 I’m looking to collaborate on OSS Angular Apps
+
+💬 Ask me about Angular thingys, Ionic and may be some UI designs
+
+📫 How to reach me: Twitter: @MuturiAlex
+
+⚡ Fun fact: From my bucket list --> Build a DIY Boosted Car 
