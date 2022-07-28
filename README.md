@@ -1,7 +1,7 @@
 ### Hi there 👋 my Name is Alex Muturi, a fullstack Dev with bias for Frontend.
 
 
-🔭 I’m currently working on Angular apps for Kyosk Digital Services
+🔭 I’m currently working on Angular apps for Kyosk Digital Services, mentoring at Angular Kenya, Technical Writer and Speaker
 
 🌱 I’m currently learning in depth Javascript, Typescript, the Observer pattern, React and NX-Monrepo
 
