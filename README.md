@@ -28,6 +28,7 @@
 ---
 
 **📫 Connect with me:**  
+Personal Webiste: [alex-migwi.github.io](https://alex-migwi.github.io)
 Twitter: [@MuturiAlex](https://twitter.com/MuturiAlex)  
 LinkedIn: [Alex Muturi](linkedin.com/in/alex-muturi)
 
