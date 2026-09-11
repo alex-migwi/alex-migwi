@@ -1,39 +1,33 @@
-# 👋 Hi, I'm Alex Muturi
+# Alex Muturi
 
-**Passionate About Helping Developers Grow | Teaching Through Code, Building and Leading in Community | Developer Advocate (Angular, OSS) | Mentor & Software Engineer**
+Developer Experience Engineer · Builder Ecosystem & Product Activation Lead · Open Source Contributor
 
----
+I build tools, documentation systems, and learning experiences that help developers move from first contact to confident use. I’m based in Nairobi, Kenya and work with teams and communities globally.
 
-## 🚀 About Me
-- What began as a journey in software development and engineering, building real-world applications using tools like Angular, PHP, MySQL, Laravel, WordPress, October CMS, and even Visual Basic whilst enjoying solving complex frontend and backend challenges — am growing into other quarters: helping other developers grow.
+## What I do
 
-- That passion has evolved into a mission. Today, I focus on teaching through code, sharing practical knowledge, and creating spaces where developers — especially those early in their careers — feel seen, supported, and empowered to grow with confidence.
-- Mentor at **Angular Kenya**, Technical Writer & Speaker
-- Building the Developer 101 series at **Unstacked Labs**
+- Lead Builder Ecosystem & Product Activation at **Builders Space**, shaping programming, partnerships, technical storytelling, and sponsor activation for African builders.
+- Lead Developer Experience & Engineering Enablement at **Chanan Systems**, building self-service tooling and reducing friction in developer workflows.
+- Mentor and contribute in the community through **Angular Kenya** and **TechOps Hub**.
+- Speak and run practical workshops on developer experience, Angular, technical documentation, and developer tooling.
 
----
+## Selected work
 
-## 🛠 Projects & Learning Focus
-- 🔧 Building Angular apps for **Kyosk Digital Services**
-- 📚 Learning Advanced Typescript, JavaScript, RxJS patterns and NX monorepos
-- 🤝 OSS collaboration: Angular tools, Ionic Framework, PHP
+- [Angular Recipes](https://angularrecipes.dev) — practical Angular learning resources and patterns.
+- [Docs as Code](https://github.com/alex-migwi/docs-as-code) — replayable, verifiable documentation workflows.
+- [WebMCP QA demo](https://github.com/alex-migwi/webmcp-qa-demo) and [TOML-based variant](https://github.com/alex-migwi/webmcp-qa-demo-with-toml) — experiments in autonomous web QA for Angular applications.
+- [Daraja Local](https://github.com/alex-migwi/daraja-local) — local development tooling for Safaricom Daraja integrations.
 
----
+## Open to collaborate on
 
-## 🌱 Let’s Collaborate
-- 🎯 OSS Angular & Ionic apps
-- 📘 Mentorship support: beginner to intermediate devs
-- 📣 Developer content: tutorials, talks, guides
+Developer tooling, internal developer platforms, documentation systems, DevRel and product activation, technical workshops, mentoring, and talks.
 
----
+## Find me
 
-**📫 Connect with me:**  
-Personal Webiste: [alex-migwi.github.io](https://alex-migwi.github.io)
-Twitter: [@MuturiAlex](https://twitter.com/MuturiAlex)  
-LinkedIn: [Alex Muturi](linkedin.com/in/alex-muturi)
+- Website: [alex-migwi.github.io](https://alex-migwi.github.io)
+- GitHub: [@alex-migwi](https://github.com/alex-migwi)
+- LinkedIn: [Alex Muturi](https://linkedin.com/in/alex-muturi)
+- X: [@MuturiAlex](https://twitter.com/MuturiAlex)
+- Email: [alex.migwi@gmail.com](mailto:alex.migwi@gmail.com)
 
----
-
-⚡ Fun fact: In my bucket list: A DIY Boosted Car!
-
-
+⚡ Still on the bucket list: build a DIY boosted car.
